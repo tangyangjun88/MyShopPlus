@@ -4,6 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/MyShopPlus.iml" filepath="$PROJECT_DIR$/.idea/MyShopPlus.iml" />
       <module fileurl="file://$PROJECT_DIR$/dependencies/dependencies.iml" filepath="$PROJECT_DIR$/dependencies/dependencies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/provider/provider.iml" filepath="$PROJECT_DIR$/provider/provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/provider/ums-admin-provider-api/ums-admin-provider-api.iml" filepath="$PROJECT_DIR$/provider/ums-admin-provider-api/ums-admin-provider-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/provider/ums-admin-provider-service/ums-admin-provider-service.iml" filepath="$PROJECT_DIR$/provider/ums-admin-provider-service/ums-admin-provider-service.iml" />
     </modules>
   </component>
 </project>
